@@ -1,0 +1,33 @@
+---
+title: "Statistical characterization of therapeutic protein modifications"
+author: "Tsung-Heng Tsai"
+date: "1/24/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Protein characterization
+
+We distinguish three goals in protein characterization
+
+* Estimation of site occupancy
+
+* Differential site occupancy determination
+
+* Estimation of combined occupancy
+
+```{r cars}
+summary(cars)
+```
+
+## Goal 1: site occupancy estimation
+
+
+## Goal 1: differential site occupancy
+
+
+## Goal 3: combined occupancy estimation
+
