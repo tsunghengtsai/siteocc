@@ -19,9 +19,6 @@ We distinguish three goals in protein characterization
 
 * Estimation of combined occupancy
 
-```{r cars}
-summary(cars)
-```
 
 ## Goal 1: site occupancy estimation
 
